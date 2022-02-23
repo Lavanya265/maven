@@ -41,3 +41,5 @@ SIX SCOPES:
 	4. test
 	5. import
 	6. system
+
+This Maven also have a dependancy management and profiles.
